@@ -19,7 +19,7 @@ A Cisco GNS3-based campus network project implementing VLAN segmentation, Router
 ## Network Topology
 
 <p align="center">
-  <img src="ScreenShots\Topology.png" width="100%">
+  <img src="Topology\Topology.png" width="100%">
 </p>
 
 
